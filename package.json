@@ -34,7 +34,7 @@
     "deep-extend": "^0.5.0",
     "mensch": "^0.3.3",
     "slick": "1.12.2",
-    "web-resource-inliner": "^4.2.0"
+    "web-resource-inliner": "^5.0.0"
   },
   "devDependencies": {
     "batch": "0.5.3",
